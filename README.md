@@ -27,7 +27,7 @@ pip install requests beautifulsoup4 openai python-dotenv
 Pasos para configurar la aplicación en Microsoft Entra Admin Center:
 1. Ir a App registrations y crear una nueva aplicación.
 2. En Certificates & Secrets, crear un `Client Secret` y guardar el Value (solo se muestra una vez)
-3. En API Permissions, hacer clic en Add a permission -> Microsoft Graph -> Delegated permissions -> seleccionar `Mail.Read`
+3. En API Permissions, hacer clic en Add a permission -> Microsoft Graph -> Application permissions -> seleccionar `Mail.Read`
 4. Dar consent al permiso para tu organización si es necesario.
 
 - Debes obtener:  
