@@ -41,10 +41,10 @@ OPENAI_API_KEY=TU_OPENAI_API_KEY
 
 ## 🔹 Estructura del proyecto
 
-analizador-correos-ia/
-│
-├─ main.py # Script principal que ejecuta la lectura y análisis de correos
-├─ README.md # Documentación del proyecto
-├─ config_template.env # Plantilla de configuración sin exponer claves
-├─ .gitignore # Ignora .env y archivos de caché de Python
-└─ .env # Archivo con tus credenciales (no subir a GitHub)
+analizador-correos-ia
+
+main.py # Script principal que ejecuta la lectura y análisis de correos
+README.md # Documentación del proyecto
+config_template.env # Plantilla de configuración sin exponer claves
+.gitignore # Ignora .env y archivos de caché de Python
+.env # Archivo con tus credenciales (no subir a GitHub)
