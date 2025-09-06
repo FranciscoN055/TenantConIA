@@ -40,6 +40,7 @@ MAILBOX=TU_MAILBOX
 OPENAI_API_KEY=TU_OPENAI_API_KEY
 
 ## 🔹 Estructura del proyecto
+
 analizador-correos-ia/
 │
 ├─ main.py # Script principal que ejecuta la lectura y análisis de correos
